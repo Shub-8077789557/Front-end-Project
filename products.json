@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Refrigerator",
+      "price": 2500,
+      "id": 2
+    },
+    {
+      "name": "Mobile",
+      "price": 3000,
+      "id": 3
+    },
+    {
+      "name": "Mercedes",
+      "price": 20000,
+      "id": 4
+    }
+  ]
+}
